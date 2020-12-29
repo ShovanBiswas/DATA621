@@ -1,9 +1,0 @@
-Files:
-$ ls -l
-total 9308
--rw-r--r-- 1 ShovanBiswas 197121 2562816 Nov 19 00:44  Data621-HW4-Final.html
--rw-r--r-- 1 ShovanBiswas 197121 5181062 Nov 19 00:47  Data621-HW4-Final.pdf
--rw-r--r-- 1 ShovanBiswas 197121   27111 Nov 19 00:46  Data621-HW4-Final.Rmd
--rw-r--r-- 1 ShovanBiswas 197121  314228 Nov 19 00:46  Insurance_pred.csv
--rw-r--r-- 1 ShovanBiswas 197121 1134711 Oct  7 18:35  insurance_training_data.csv
--rw-r--r-- 1 ShovanBiswas 197121  291053 Oct  7 18:35  insurance-evaluation-data.csv
